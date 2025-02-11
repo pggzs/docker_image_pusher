@@ -2,7 +2,8 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/amd64/v4 ydlhero/chatgpt-web-midjourney-proxy:latest
+#--platform=linux/amd64/v4 ydlhero/chatgpt-web-midjourney-proxy:latest
+yidadaa/chatgpt-next-web
 #nginx
 #continuumio/miniconda3:latest
 #twang2218/gitlab-ce-zh
