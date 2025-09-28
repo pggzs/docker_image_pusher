@@ -9,4 +9,5 @@
 #twang2218/gitlab-ce-zh
 #apify/actor-node-playwright-camoufox:latest
 #maxsolyaris/worker-camoufox-vnc:latest
-xpzouying/xiaohongshu-mcp
+#xpzouying/xiaohongshu-mcp
+ghcr.io/modelcontextprotocol/inspector:latest
