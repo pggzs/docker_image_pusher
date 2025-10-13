@@ -10,4 +10,5 @@
 #apify/actor-node-playwright-camoufox:latest
 #maxsolyaris/worker-camoufox-vnc:latest
 #xpzouying/xiaohongshu-mcp
-ghcr.io/modelcontextprotocol/inspector:latest
+#ghcr.io/modelcontextprotocol/inspector:latest
+mysql:8.0.43-debian
