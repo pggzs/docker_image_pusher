@@ -12,4 +12,5 @@
 #xpzouying/xiaohongshu-mcp
 #ghcr.io/modelcontextprotocol/inspector:latest
 #mysql:8.0.43-debian
-docker.io/bitnami/mongodb:5.0.10-debian-11-r1
+mongodb/mongodb-community-server:5.0.10-ubuntu2004
+
